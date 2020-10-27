@@ -10,40 +10,22 @@ In this project I will make an automatic job application AI, that will help peop
 ## Background
 
 
-* problem 1
+* Problem 1
 Applying to jobs is very time consuming.
-* problem 2
-* etc.
 
 
 ## How is it used?
 
 Describe the process of using the solution. In what kind situations is the solution needed (environment, time, etc.)? Who are the users, what kinds of needs should be taken into account?
 
+The user will sign up on the website and select from a list of job titles ones that interest the applicant. Then the user will upload their CV and an AI will start applying and writing a cover letter for each job. The user can then log into the service and check what jobs he has applied to so he can excpect who will call the user to interviews.
+
 Images will make your README look nice!
 Once you upload an image to your repository, you can link link to it like this (replace the URL with file path, if you've uploaded an image to Github.)
-![Cat](https://upload.wikimedia.org/wikipedia/commons/5/5e/Sleeping_cat_on_her_back.jpg)
+![Job Applications Done Automatically](https://www.thebalancecareers.com/thmb/la332AU3WIapcB8yEiSJtog4f0g=/2121x1414/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-1186821733-8293b36141c947c68f635ae24eecfaa3.jpg)
 
 If you need to resize images, you have to use an HTML tag, like this:
 <img src="https://upload.wikimedia.org/wikipedia/commons/5/5e/Sleeping_cat_on_her_back.jpg" width="300">
-
-This is how you create code examples:
-```
-def main():
-   countries = ['Denmark', 'Finland', 'Iceland', 'Norway', 'Sweden']
-   pop = [5615000, 5439000, 324000, 5080000, 9609000]   # not actually needed in this exercise...
-   fishers = [1891, 2652, 3800, 11611, 1757]
-
-   totPop = sum(pop)
-   totFish = sum(fishers)
-
-   # write your solution here
-
-   for i in range(len(countries)):
-      print("%s %.2f%%" % (countries[i], 100.0))    # current just prints 100%
-
-main()
-```
 
 
 ## Data sources and AI methods
