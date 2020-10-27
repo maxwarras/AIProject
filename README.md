@@ -4,7 +4,7 @@ Final project for the Building AI course
 
 ## Summary
 
-In this project I will make an automatic job application AI, that will help people with no jobs apply to jobs automatically with the help of AI. The AI will analyze the CV of the person and then find jobs online and apply to them automatically by making a cover letter depending on the job description. 
+In this project I will make an automatic job application AI, that will help people with no jobs apply to jobs automatically with the help of AI. The AI will analyze the CV of the person and then find jobs online and apply to them automatically.
 
 
 ## Background
