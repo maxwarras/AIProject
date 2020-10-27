@@ -20,37 +20,16 @@ Describe the process of using the solution. In what kind situations is the solut
 
 The user will sign up on the website and select from a list of job titles ones that interest the applicant. Then the user will upload their CV and an AI will start applying and writing a cover letter for each job. The user can then log into the service and check what jobs he has applied to so he can excpect who will call the user to interviews.
 
-Images will make your README look nice!
-Once you upload an image to your repository, you can link link to it like this (replace the URL with file path, if you've uploaded an image to Github.)
 ![Job Applications Done Automatically](https://www.thebalancecareers.com/thmb/la332AU3WIapcB8yEiSJtog4f0g=/2121x1414/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-1186821733-8293b36141c947c68f635ae24eecfaa3.jpg)
 
-If you need to resize images, you have to use an HTML tag, like this:
-<img src="https://www.thebalancecareers.com/thmb/la332AU3WIapcB8yEiSJtog4f0g=/2121x1414/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-1186821733-8293b36141c947c68f635ae24eecfaa3.jpg" width="300">
-
-
 ## Data sources and AI methods
-Where does your data come from? Do you collect it yourself or do you use data collected by someone else?
-If you need to use links, here's an example:
-[Twitter API](https://developer.twitter.com/en/docs)
 
-| Syntax      | Description |
-| ----------- | ----------- |
-| Header      | Title       |
-| Paragraph   | Text        |
+The data will firstly be only used with myworkdayjobs job applications. In addition to this we will apply to get access to GPT-3 in order to write the cover letters.
 
 ## Challenges
 
-What does your project _not_ solve? Which limitations and ethical considerations should be taken into account when deploying a solution like this?
+A challenge is that so many different job portals are used and for some jobs you need to send an e-mail and for some jobs you use linkedin etc.
 
 ## What next?
 
-How could your project grow and become something even more? What kind of skills, what kind of assistance would you  need to move on? 
-
-
-## Acknowledgments
-
-* list here the sources of inspiration 
-* do not use code, images, data etc. from others without permission
-* when you have permission to use other people's materials, always mention the original creator and the open source / Creative Commons licence they've used
-  <br>For example: [Sleeping Cat on Her Back by Umberto Salvagnin](https://commons.wikimedia.org/wiki/File:Sleeping_cat_on_her_back.jpg#filelinks) / [CC BY 2.0](https://creativecommons.org/licenses/by/2.0)
-* etc
+Next we would need programmers to build the app and apply for access to GPT-3.
