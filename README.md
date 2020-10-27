@@ -6,11 +6,9 @@ Final project for the Building AI course
 
 In this project I will make an automatic job application AI, that will help people with no jobs apply to jobs automatically with the help of AI. The AI will analyze the CV of the person and then find jobs online and apply to them automatically.
 
-
 ## Background
 
-
-* Problem 1
+* Problem 1:
 Applying to jobs is very time consuming.
 
 
