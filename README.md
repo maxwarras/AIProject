@@ -25,7 +25,7 @@ Once you upload an image to your repository, you can link link to it like this (
 ![Job Applications Done Automatically](https://www.thebalancecareers.com/thmb/la332AU3WIapcB8yEiSJtog4f0g=/2121x1414/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-1186821733-8293b36141c947c68f635ae24eecfaa3.jpg)
 
 If you need to resize images, you have to use an HTML tag, like this:
-<img src="https://upload.wikimedia.org/wikipedia/commons/5/5e/Sleeping_cat_on_her_back.jpg" width="300">
+<img src="https://www.thebalancecareers.com/thmb/la332AU3WIapcB8yEiSJtog4f0g=/2121x1414/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-1186821733-8293b36141c947c68f635ae24eecfaa3.jpg" width="300">
 
 
 ## Data sources and AI methods
